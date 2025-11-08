@@ -36,3 +36,4 @@ Direct Communication: Messaging APIs (Twilio, Firebase Realtime DB), WebSockets
 ## WIREFRAME LINK
 https://www.figma.com/design/yD1dAAP6rXAUqZgEdRJYEM/Stage-3-tasks?m=auto&t=NyY9NzUzxlJafZEn-6
 
+### systemArchitecture.png
