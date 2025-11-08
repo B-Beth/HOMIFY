@@ -74,5 +74,5 @@ Uses proven frameworks (React, Node.js, PostgreSQL)
 Scalable with modular backend and REST APIs
 Secure payments through escrow and verified artisans
 Real time system supported by WebSockets/Firebase
-Deployable to AWS, Vercel, or Render
+Deployable to AWS, Vercel, or Render.
 
