@@ -1,5 +1,5 @@
 # HOMIFY
-## WHAT YOUR PRODUCT DIES : 
+## WHAT YOUR PRODUCT DOES : 
 This is in application that allows the buying an selling of home related products,materials and professional services which includes home decor, materials used for interior architechural modificstion/designs.
 most materials used in home building and modifications are usually gotten fron local artisans, 
 ## WHY IT MATTERS : 
